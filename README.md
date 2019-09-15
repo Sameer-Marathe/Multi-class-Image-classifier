@@ -23,6 +23,3 @@ Please run ``` predict_the_labels.ipynb ``` script to predict labels on test ima
 
 Model achieved 95% train accuracy and around 90% test accuracy.
 
-## Trained Model
-
-Trained model and weights are saved in ``` ~/model ``` folder
